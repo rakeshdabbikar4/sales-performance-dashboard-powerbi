@@ -1,4 +1,6 @@
-# Sales Performance Dashboard (Power BI)
+# Sales Performance Dashboard (Power BI) 
+## Business Problem
+Analyze sales data to identify key trends, top-performing products, and regional performance to support better business decision-making.
 
 ## Project Overview
 This project presents an interactive Sales Performance Dashboard developed using Microsoft Power BI.  
